@@ -40,4 +40,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6A3,100:DC143C&fontColor=FFDAE5&height=200&section=footer">
-</div>안녕
+</div>
