@@ -11,14 +11,14 @@
       <th> 기간 </th>
     </tr>
     <tr>
-      <th> <img src="https://github.com/user-attachments/assets/6dc25115-90cd-4599-991a-c4b170852d5e" width="15"> Chung-Ang Univ. </th>
-      <td align="center"> Industrial Security 10th </td>
-      <td align="center"> 2024.3~ <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15"></td>
-    </tr>
-    <tr>
       <th> <img src="https://github.com/user-attachments/assets/0627dc53-2573-4b85-932e-e8a2f2228b1d" width="15"> LikeLion at CAU 13th </th>
       <td align="center"> Front-end 13th Baby Lion </td>
       <td align="center"> 2025.3~ <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15"></td>
+    </tr>
+    <tr>
+      <th> <img src="https://github.com/user-attachments/assets/6dc25115-90cd-4599-991a-c4b170852d5e" width="15"> Chung-Ang Univ. </th>
+      <td align="center"> Industrial Security 10th </td>
+      <td align="center"> 2024.3~ <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15"></td>
     </tr>
   </table>
 </div>
