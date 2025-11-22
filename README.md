@@ -23,7 +23,37 @@
   </table>
 </div>
 
+### <p align="center"> 🗂️ Project 🗂️ </p>
+<div align="center">
+  <table>
+    <tr>
+      <th> 프로젝트 (기간) </th>
+      <th> 역할 </th>
+      <th> 링크 </th>
+      <th> 수상 </th>
+    </tr>
+    <tr>
+      <td align="center"> LIKELION at CAU 13TH Hackathon </td>
+      <td align="center"> FE, PM </td>
+      <td align="center"><a href="https://github.com/CAUkathon"> 멋사조짜조 </a></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"> HackSeoul (2025.11.08 - 2025.11.09) </td>
+      <td align="center"> PM </td>
+      <td align="center"><a href="https://github.com/hackseoul-2025"> Whatisum(뭐지엄) </a></td>
+      <td align="center"> 🥉 </td>
+    </tr>
+    <tr>
+      <td align="center"> LIKELION UNIV. 13th Hackathon (2025.08.25 - 2025.08.26) </td>
+      <td align="center"> FE </td>
+      <td align="center"><a href="https://github.com/Dongjak-Village-Guards"> 지금살래? </a></td>
+      <td align="center"></td>
+    </tr>
+  </table>
+</div>
+
 ### <p align="center"> ⚒️ I can use... ⚒️ </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </div>
