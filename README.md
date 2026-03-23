@@ -6,9 +6,9 @@
 <div align="center">
   <table>
     <tr>
-      <th> 소속 </th>
-      <th> 활동 </th>
-      <th> 기간 </th>
+      <th> Afflication </th>
+      <th> Position </th>
+      <th> Duration </th>
     </tr>
     <tr>
       <th> <img src="https://github.com/user-attachments/assets/6dc25115-90cd-4599-991a-c4b170852d5e" width="15"> CAU CPSS Lab </th>
@@ -32,28 +32,29 @@
 <div align="center">
   <table>
     <tr>
-      <th> 프로젝트 (기간) </th>
-      <th> 역할 </th>
-      <th> 링크 </th>
-      <th> 수상 </th>
+      <th> Project </th>
+      <th> Role </th>
+      <th> Link </th>
+    </tr>
+    <tr>
+      <td align="center"> CPSS Lab Hompage Redesign </td>
+      <td align="center"> FE, DevOps </td>
+      <td align="center"><a href="https://cpss.cau.ac.kr/"> CAU CPSS Lab </a></td>
     </tr>
     <tr>
       <td align="center"> LIKELION at CAU 13TH Hackathon </td>
       <td align="center"> FE, PM </td>
       <td align="center"><a href="https://github.com/CAUkathon"> 멋사조짜조 </a></td>
-      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"> HackSeoul (2025.11.08 - 2025.11.09) </td>
       <td align="center"> PM </td>
       <td align="center"><a href="https://github.com/hackseoul-2025"> Whatisum(뭐지엄) </a></td>
-      <td align="center"> 🥉 </td>
     </tr>
     <tr>
       <td align="center"> LIKELION UNIV. 13th Hackathon (2025.08.25 - 2025.08.26) </td>
       <td align="center"> FE </td>
       <td align="center"><a href="https://github.com/Dongjak-Village-Guards"> 지금살래? </a></td>
-      <td align="center"></td>
     </tr>
   </table>
 </div>
