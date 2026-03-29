@@ -37,22 +37,22 @@
       <th> Link </th>
     </tr>
     <tr>
-      <td align="center"> CPSS Lab Hompage Redesign </td>
+      <td align="center"> <b>CPSS Lab Hompage Redesign</b> (2026.03.) </td>
       <td align="center"> FE, DevOps </td>
       <td align="center"><a href="https://cpss.cau.ac.kr/"> CAU CPSS Lab </a></td>
     </tr>
     <tr>
-      <td align="center"> LIKELION at CAU 13TH Hackathon </td>
+      <td align="center"> <b>LIKELION at CAU 13th Hackathon</b> (2025.11.) </td>
       <td align="center"> FE, PM </td>
       <td align="center"><a href="https://github.com/CAUkathon"> 멋사조짜조 </a></td>
     </tr>
     <tr>
-      <td align="center"> HackSeoul (2025.11.08 - 2025.11.09) </td>
+      <td align="center"> <b>HackSeoul</b> (2025.11.08 - 2025.11.09) </td>
       <td align="center"> PM </td>
       <td align="center"><a href="https://github.com/hackseoul-2025"> Whatisum(뭐지엄) </a></td>
     </tr>
     <tr>
-      <td align="center"> LIKELION UNIV. 13th Hackathon (2025.08.25 - 2025.08.26) </td>
+      <td align="center"> <b>LIKELION UNIV. 13th Hackathon</b> (2025.08.25 - 2025.08.26) </td>
       <td align="center"> FE </td>
       <td align="center"><a href="https://github.com/Dongjak-Village-Guards"> 지금살래? </a></td>
     </tr>
