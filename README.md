@@ -37,6 +37,11 @@
       <th> Link </th>
     </tr>
     <tr>
+      <td align="center"> <b>IT/Security Magazine</b> (2026.05 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15">) </td>
+      <td align="center"> Editor </td>
+      <td align="center"><a href="https://www.instagram.com/creeper.mag/"> @creeper.mag </a></td>
+    </tr>
+    <tr>
       <td align="center"> <b>CPSS Lab Hompage Redesign</b> (2026.03.) </td>
       <td align="center"> FE, DevOps </td>
       <td align="center"><a href="https://cpss.cau.ac.kr/"> CAU CPSS Lab </a></td>
