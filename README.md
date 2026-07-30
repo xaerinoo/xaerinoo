@@ -37,6 +37,11 @@
       <th> Link </th>
     </tr>
     <tr>
+      <td align="center"> <b>IPS Lab Hompage Design</b> (2026.07.) </td>
+      <td align="center"> FE </td>
+      <td align="center"><a href="https://ipsecurity-lab.github.io/homepage/"> IPS Lab </a></td>
+    </tr>
+    <tr>
       <td align="center"> <b>IT/Security Magazine</b> (2026.05 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15">) </td>
       <td align="center"> Editor </td>
       <td align="center"><a href="https://www.instagram.com/creeper.mag/"> @creeper.mag </a></td>
