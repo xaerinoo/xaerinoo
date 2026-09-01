@@ -37,6 +37,11 @@
       <th> Link </th>
     </tr>
     <tr>
+      <td align="center"> <b>🥉 경기 가상융합 콘텐츠 챌린지</b> (2026.08.) </td>
+      <td align="center"> PM, FE, AR </td>
+      <td align="center">경기술도가</td>
+    </tr>
+    <tr>
       <td align="center"> <b>IPS Lab Hompage Design</b> (2026.07.) </td>
       <td align="center"> FE </td>
       <td align="center"><a href="https://ipsecurity-lab.github.io/homepage/"> IPS Lab </a></td>
@@ -57,7 +62,7 @@
       <td align="center"><a href="https://github.com/CAUkathon"> 멋사조짜조 </a></td>
     </tr>
     <tr>
-      <td align="center"> <b>HackSeoul</b> (2025.11.08 - 2025.11.09) </td>
+      <td align="center"> <b>🥉 HackSeoul</b> (2025.11.08 - 2025.11.09) </td>
       <td align="center"> PM </td>
       <td align="center"><a href="https://github.com/hackseoul-2025"> Whatisum(뭐지엄) </a></td>
     </tr>
