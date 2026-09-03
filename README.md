@@ -39,7 +39,7 @@
     <tr>
       <td align="center"> <b>🥉 경기 가상융합 콘텐츠 챌린지</b> (2026.08.) </td>
       <td align="center"> PM, FE, AR </td>
-      <td align="center">경기술도가</td>
+      <td align="center"><a href="https://github.com/Joojungbaengi"> 경기술도가</td>
     </tr>
     <tr>
       <td align="center"> <b>IPS Lab Hompage Design</b> (2026.07.) </td>
