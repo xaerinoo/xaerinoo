@@ -52,6 +52,11 @@
       <td align="center"><a href="https://www.instagram.com/creeper.mag/"> @creeper.mag </a></td>
     </tr>
     <tr>
+      <td align="center"> <b>CPSS Lab Discord Server Bot</b> (2026.04.) </td>
+      <td align="center"> BE </td>
+      <td align="center"><a href="https://github.com/CAU-CPSS/server-status-discord-bot/"> Server Status Bot </a></td>
+    </tr>
+    <tr>
       <td align="center"> <b>CPSS Lab Hompage Redesign</b> (2026.03.) </td>
       <td align="center"> FE, DevOps </td>
       <td align="center"><a href="https://cpss.cau.ac.kr/"> CAU CPSS Lab </a></td>
