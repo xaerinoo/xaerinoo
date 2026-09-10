@@ -42,9 +42,14 @@
       <td align="center"><a href="https://github.com/Joojungbaengi"> 경기술도가</td>
     </tr>
     <tr>
-      <td align="center"> <b>IPS Lab Hompage Design</b> (2026.07.) </td>
+      <td align="center"> <b>IPS Lab Hompage Develop</b> (2026.07.) </td>
       <td align="center"> FE </td>
       <td align="center"><a href="https://ipsecurity-lab.github.io/homepage/"> IPS Lab </a></td>
+    </tr>
+    <tr>
+      <td align="center"> <b>📄 REAN: Reconstruction-aware ECG Anonymization<br />Based on Privacy–Utility Orthogonality</b> (2026.07.) </td>
+      <td align="center"> 1st Author </td>
+      <td align="center"><a href="https://arxiv.org/abs/2607.06037"> Under Review (IEEE BIBM) </a></td>
     </tr>
     <tr>
       <td align="center"> <b>IT/Security Magazine</b> (2026.05 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15">) </td>
@@ -57,7 +62,7 @@
       <td align="center"><a href="https://github.com/CAU-CPSS/server-status-discord-bot/"> Server Status Bot </a></td>
     </tr>
     <tr>
-      <td align="center"> <b>CPSS Lab Hompage Redesign</b> (2026.03.) </td>
+      <td align="center"> <b>CPSS Lab Hompage Redevelop</b> (2026.03.) </td>
       <td align="center"> FE, DevOps </td>
       <td align="center"><a href="https://cpss.cau.ac.kr/"> CAU CPSS Lab </a></td>
     </tr>
