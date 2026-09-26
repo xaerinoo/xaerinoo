@@ -37,6 +37,11 @@
       <th> Link </th>
     </tr>
     <tr>
+      <td align="center"> <b>중앙대학교 C.O.R.E. 학술제</b> (2026.09.) </td>
+      <td align="center"> Leader </td>
+      <td align="center"> 도로 안전 보완을 위한 WiFi CSI 기반 주차장 사각지대 보행자 감지 인프라 제안 </a></td>
+    </tr>
+    <tr>
       <td align="center"> <b>🥉 경기 가상융합 콘텐츠 챌린지</b> (2026.08.) </td>
       <td align="center"> PM, FE, AR </td>
       <td align="center"><a href="https://github.com/Joojungbaengi"> 경기술도가</td>
@@ -49,7 +54,7 @@
     <tr>
       <td align="center"> <b>📄 REAN: Reconstruction-aware ECG Anonymization<br />Based on Privacy–Utility Orthogonality</b> (2026.07.) </td>
       <td align="center"> 1st Author </td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.06037"> Under Review (IEEE BIBM) </a></td>
+      <td align="center"> IEEE BIBM short paper accepted </td>
     </tr>
     <tr>
       <td align="center"> <b>IT/Security Magazine</b> (2026.05 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15">) </td>
