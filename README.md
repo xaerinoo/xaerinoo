@@ -1,12 +1,8 @@
 ### <p align="center"> 🐸 Me 🐸 </p>
 <div align="center">
-  <a href="https://www.instagram.com/xaerinoo/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://velog.io/@ddalgigondu"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-</div><br>
-<div align="center">
   <table>
     <tr>
-      <th> Afflication </th>
+      <th> Affiliation </th>
       <th> Position </th>
       <th> Duration </th>
     </tr>
@@ -37,9 +33,9 @@
       <th> Link </th>
     </tr>
     <tr>
-      <td align="center"> <b>🥉 중앙대학교 C.O.R.E. 학술제</b> (2026.09.) </td>
+      <td align="center"> <b>🥉 C.O.R.E. 학술제</b> (2026.09.) </td>
       <td align="center"> Leader </td>
-      <td align="center"> 도로 안전 보완을 위한 WiFi CSI 기반 주차장 사각지대 보행자 감지 인프라 제안 </a></td>
+      <td align="center"><a href="https://www.figma.com/deck/QJkds6jhcgVyWifk0Opmi0"> 도로 안전 보완을 위한<br/>WiFi CSI 기반 주차장 사각지대<br/>보행자 감지 인프라 제안 </a></td>
     </tr>
     <tr>
       <td align="center"> <b>🥉 경기 가상융합 콘텐츠 챌린지</b> (2026.08.) </td>
@@ -54,17 +50,12 @@
     <tr>
       <td align="center"> <b>📄 REAN: Reconstruction-aware ECG Anonymization<br />Based on Privacy–Utility Orthogonality</b> (2026.07.) </td>
       <td align="center"> 1st Author </td>
-      <td align="center"> IEEE BIBM short paper accepted </td>
+      <td align="center"><a href="https://arxiv.org/abs/2607.06037"> IEEE BIBM<br/>short paper accepted </a></td>
     </tr>
     <tr>
       <td align="center"> <b>IT/Security Magazine</b> (2026.05 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15">) </td>
       <td align="center"> Editor </td>
       <td align="center"><a href="https://www.instagram.com/creeper.mag/"> @creeper.mag </a></td>
-    </tr>
-    <tr>
-      <td align="center"> <b>CPSS Lab Discord Server Bot</b> (2026.04.) </td>
-      <td align="center"> BE </td>
-      <td align="center"><a href="https://github.com/CAU-CPSS/server-status-discord-bot/"> Server Status Bot </a></td>
     </tr>
     <tr>
       <td align="center"> <b>CPSS Lab Hompage Redevelop</b> (2026.03.) </td>
@@ -87,15 +78,4 @@
       <td align="center"><a href="https://github.com/Dongjak-Village-Guards"> 지금살래? </a></td>
     </tr>
   </table>
-</div>
-
-### <p align="center"> ⚒️ I can use... ⚒️ </p>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <br />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-EA4C1D?style=for-the-badge&logo=Figma&logoColor=white"/>
-</div>
-
-### <p align="center"> 🌱 I've used... 🌱 </p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
