@@ -37,7 +37,7 @@
       <th> Link </th>
     </tr>
     <tr>
-      <td align="center"> <b>중앙대학교 C.O.R.E. 학술제</b> (2026.09.) </td>
+      <td align="center"> <b>🥉 중앙대학교 C.O.R.E. 학술제</b> (2026.09.) </td>
       <td align="center"> Leader </td>
       <td align="center"> 도로 안전 보완을 위한 WiFi CSI 기반 주차장 사각지대 보행자 감지 인프라 제안 </a></td>
     </tr>
