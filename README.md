@@ -43,7 +43,7 @@
       <td align="center"><a href="https://github.com/Joojungbaengi"> 경기술도가</td>
     </tr>
     <tr>
-      <td align="center"> <b>IPS Lab Hompage Develop</b> (2026.07.) </td>
+      <td align="center"> <b>IPS Lab Hompage</b> (2026.07.) </td>
       <td align="center"> FE </td>
       <td align="center"><a href="https://ipsecurity-lab.github.io/homepage/"> IPS Lab </a></td>
     </tr>
@@ -58,7 +58,7 @@
       <td align="center"><a href="https://www.instagram.com/creeper.mag/"> @creeper.mag </a></td>
     </tr>
     <tr>
-      <td align="center"> <b>CPSS Lab Hompage Redevelop</b> (2026.03.) </td>
+      <td align="center"> <b>CPSS Lab Hompage</b> (2026.03.) </td>
       <td align="center"> FE, DevOps </td>
       <td align="center"><a href="https://cpss.cau.ac.kr/"> CAU CPSS Lab </a></td>
     </tr>
