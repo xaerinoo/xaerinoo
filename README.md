@@ -7,6 +7,11 @@
       <th> Duration </th>
     </tr>
     <tr>
+      <th> <img width="15" src="https://github.com/user-attachments/assets/08d6fb90-c9dd-4523-b727-4a9da1e659ff" /> Serial </th>
+      <td align="center"> Founding Member </td>
+      <td align="center"> 2026.09 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15"> </td>
+    </tr>
+    <tr>
       <th> <img src="https://github.com/user-attachments/assets/6dc25115-90cd-4599-991a-c4b170852d5e" width="15"> CAU CPSS Lab </th>
       <td align="center"> Undergraduate Researcher </td>
       <td align="center"> 2026.01 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15"> </td>
@@ -31,6 +36,11 @@
       <th> Project </th>
       <th> Role </th>
       <th> Link </th>
+    </tr>
+    <tr>
+      <td align="center"> <b>Serial Production</b> (2026.11 - <img src="https://github.com/user-attachments/assets/e4c13cdd-3625-4f95-bd36-929b172b014a" width="15">) </td>
+      <td align="center"> DRI </td>
+      <td align="center"><a href="https://seriesoftrials.com/"> Homepage </a> <br/> <a href="https://www.instagram.com/seriesoftrials/"> Instagram </a></td>
     </tr>
     <tr>
       <td align="center"> <b>🥉 C.O.R.E. 학술제</b> (2026.09.) </td>
